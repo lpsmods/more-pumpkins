@@ -16,7 +16,7 @@ public class ModCreativeModeTabs {
     public static CreativeModeTab MAIN;
 
     private static CreativeModeTab registerTab(String name, CreativeModeTab tab) {
-        return Registry.register(BuiltInRegistries.CREATIVE_MODE_TAB, ResourceLocation.fromNamespaceAndPath(Constants.MOD_ID, name), tab);
+        return Registry.register(BuiltInRegistries.CREATIVE_MODE_TAB, ModUtils.makeId(name), tab);
     }
 
     public static void init() {}
