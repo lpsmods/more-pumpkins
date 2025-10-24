@@ -1,0 +1,441 @@
+[
+  { "name": "default", "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_carved_pumpkin' : 'minecraft:carved_pumpkin'" },
+  {
+    "name": "creeper",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_creeper_carved_pumpkin' : 'lpsm_more_pumpkins:creeper_carved_pumpkin'"
+  },
+  {
+    "name": "flower",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_flower_carved_pumpkin' : 'lpsm_more_pumpkins:flower_carved_pumpkin'"
+  },
+  {
+    "name": "ghast",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_ghast_carved_pumpkin' : 'lpsm_more_pumpkins:ghast_carved_pumpkin'"
+  },
+  {
+    "name": "globe",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_globe_carved_pumpkin' : 'lpsm_more_pumpkins:globe_carved_pumpkin'"
+  },
+  {
+    "name": "observer",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_observer_carved_pumpkin' : 'lpsm_more_pumpkins:observer_carved_pumpkin'"
+  },
+  {
+    "name": "skull",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_skull_carved_pumpkin' : 'lpsm_more_pumpkins:skull_carved_pumpkin'"
+  },
+  {
+    "name": "snout",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_snout_carved_pumpkin' : 'lpsm_more_pumpkins:snout_carved_pumpkin'"
+  },
+  {
+    "name": "angler",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_angler_carved_pumpkin' : 'lpsm_more_pumpkins:angler_carved_pumpkin'"
+  },
+  {
+    "name": "archer",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_archer_carved_pumpkin' : 'lpsm_more_pumpkins:archer_carved_pumpkin'"
+  },
+  {
+    "name": "arms_up",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_arms_up_carved_pumpkin' : 'lpsm_more_pumpkins:arms_up_carved_pumpkin'"
+  },
+  {
+    "name": "blade",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_blade_carved_pumpkin' : 'lpsm_more_pumpkins:blade_carved_pumpkin'"
+  },
+  {
+    "name": "brewer",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_brewer_carved_pumpkin' : 'lpsm_more_pumpkins:brewer_carved_pumpkin'"
+  },
+  {
+    "name": "burn",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_burn_carved_pumpkin' : 'lpsm_more_pumpkins:burn_carved_pumpkin'"
+  },
+  {
+    "name": "danger",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_danger_carved_pumpkin' : 'lpsm_more_pumpkins:danger_carved_pumpkin'"
+  },
+  {
+    "name": "explorer",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_explorer_carved_pumpkin' : 'lpsm_more_pumpkins:explorer_carved_pumpkin'"
+  },
+  {
+    "name": "flow",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_flow_carved_pumpkin' : 'lpsm_more_pumpkins:flow_carved_pumpkin'"
+  },
+  {
+    "name": "friend",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_friend_carved_pumpkin' : 'lpsm_more_pumpkins:friend_carved_pumpkin'"
+  },
+  {
+    "name": "guster",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_guster_carved_pumpkin' : 'lpsm_more_pumpkins:guster_carved_pumpkin'"
+  },
+  {
+    "name": "heart",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_heart_carved_pumpkin' : 'lpsm_more_pumpkins:heart_carved_pumpkin'"
+  },
+  {
+    "name": "heartbreak",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_heartbreak_carved_pumpkin' : 'lpsm_more_pumpkins:heartbreak_carved_pumpkin'"
+  },
+  {
+    "name": "howl",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_howl_carved_pumpkin' : 'lpsm_more_pumpkins:howl_carved_pumpkin'"
+  },
+  {
+    "name": "miner",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_miner_carved_pumpkin' : 'lpsm_more_pumpkins:miner_carved_pumpkin'"
+  },
+  {
+    "name": "mourner",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_mourner_carved_pumpkin' : 'lpsm_more_pumpkins:mourner_carved_pumpkin'"
+  },
+  {
+    "name": "plenty",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_plenty_carved_pumpkin' : 'lpsm_more_pumpkins:plenty_carved_pumpkin'"
+  },
+  {
+    "name": "prize",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_prize_carved_pumpkin' : 'lpsm_more_pumpkins:prize_carved_pumpkin'"
+  },
+  {
+    "name": "scrape",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_scrape_carved_pumpkin' : 'lpsm_more_pumpkins:scrape_carved_pumpkin'"
+  },
+  {
+    "name": "sheaf",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_sheaf_carved_pumpkin' : 'lpsm_more_pumpkins:sheaf_carved_pumpkin'"
+  },
+  {
+    "name": "shelter",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_shelter_carved_pumpkin' : 'lpsm_more_pumpkins:shelter_carved_pumpkin'"
+  },
+  {
+    "name": "snort",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_snort_carved_pumpkin' : 'lpsm_more_pumpkins:snort_carved_pumpkin'"
+  },
+  {
+    "name": "crafter",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_crafter_carved_pumpkin' : 'lpsm_more_pumpkins:crafter_carved_pumpkin'"
+  },
+  {
+    "name": "dispenser",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_dispenser_carved_pumpkin' : 'lpsm_more_pumpkins:dispenser_carved_pumpkin'"
+  },
+  {
+    "name": "dropper",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_dropper_carved_pumpkin' : 'lpsm_more_pumpkins:dropper_carved_pumpkin'"
+  },
+  {
+    "name": "zero",
+    "group": "numbers",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_zero_carved_pumpkin' : 'lpsm_more_pumpkins:zero_carved_pumpkin'"
+  },
+  {
+    "name": "one",
+    "group": "numbers",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_one_carved_pumpkin' : 'lpsm_more_pumpkins:one_carved_pumpkin'"
+  },
+  {
+    "name": "two",
+    "group": "numbers",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_two_carved_pumpkin' : 'lpsm_more_pumpkins:two_carved_pumpkin'"
+  },
+  {
+    "name": "three",
+    "group": "numbers",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_three_carved_pumpkin' : 'lpsm_more_pumpkins:three_carved_pumpkin'"
+  },
+  {
+    "name": "four",
+    "group": "numbers",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_four_carved_pumpkin' : 'lpsm_more_pumpkins:four_carved_pumpkin'"
+  },
+  {
+    "name": "five",
+    "group": "numbers",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_five_carved_pumpkin' : 'lpsm_more_pumpkins:five_carved_pumpkin'"
+  },
+  {
+    "name": "six",
+    "group": "numbers",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_six_carved_pumpkin' : 'lpsm_more_pumpkins:six_carved_pumpkin'"
+  },
+  {
+    "name": "seven",
+    "group": "numbers",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_seven_carved_pumpkin' : 'lpsm_more_pumpkins:seven_carved_pumpkin'"
+  },
+  {
+    "name": "eight",
+    "group": "numbers",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_eight_carved_pumpkin' : 'lpsm_more_pumpkins:eight_carved_pumpkin'"
+  },
+  {
+    "name": "nine",
+    "group": "numbers",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_nine_carved_pumpkin' : 'lpsm_more_pumpkins:nine_carved_pumpkin'"
+  },
+  {
+    "name": "lower_a",
+    "group": "lower_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_lower_a_carved_pumpkin' : 'lpsm_more_pumpkins:lower_a_carved_pumpkin'"
+  },
+  {
+    "name": "lower_b",
+    "group": "lower_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_lower_b_carved_pumpkin' : 'lpsm_more_pumpkins:lower_b_carved_pumpkin'"
+  },
+  {
+    "name": "lower_c",
+    "group": "lower_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_lower_c_carved_pumpkin' : 'lpsm_more_pumpkins:lower_c_carved_pumpkin'"
+  },
+  {
+    "name": "lower_d",
+    "group": "lower_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_lower_d_carved_pumpkin' : 'lpsm_more_pumpkins:lower_d_carved_pumpkin'"
+  },
+  {
+    "name": "lower_e",
+    "group": "lower_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_lower_e_carved_pumpkin' : 'lpsm_more_pumpkins:lower_e_carved_pumpkin'"
+  },
+  {
+    "name": "lower_f",
+    "group": "lower_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_lower_f_carved_pumpkin' : 'lpsm_more_pumpkins:lower_f_carved_pumpkin'"
+  },
+  {
+    "name": "lower_g",
+    "group": "lower_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_lower_g_carved_pumpkin' : 'lpsm_more_pumpkins:lower_g_carved_pumpkin'"
+  },
+  {
+    "name": "lower_h",
+    "group": "lower_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_lower_h_carved_pumpkin' : 'lpsm_more_pumpkins:lower_h_carved_pumpkin'"
+  },
+  {
+    "name": "lower_i",
+    "group": "lower_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_lower_i_carved_pumpkin' : 'lpsm_more_pumpkins:lower_i_carved_pumpkin'"
+  },
+  {
+    "name": "lower_j",
+    "group": "lower_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_lower_j_carved_pumpkin' : 'lpsm_more_pumpkins:lower_j_carved_pumpkin'"
+  },
+  {
+    "name": "lower_k",
+    "group": "lower_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_lower_k_carved_pumpkin' : 'lpsm_more_pumpkins:lower_k_carved_pumpkin'"
+  },
+  {
+    "name": "lower_l",
+    "group": "lower_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_lower_l_carved_pumpkin' : 'lpsm_more_pumpkins:lower_l_carved_pumpkin'"
+  },
+  {
+    "name": "lower_m",
+    "group": "lower_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_lower_m_carved_pumpkin' : 'lpsm_more_pumpkins:lower_m_carved_pumpkin'"
+  },
+  {
+    "name": "lower_n",
+    "group": "lower_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_lower_n_carved_pumpkin' : 'lpsm_more_pumpkins:lower_n_carved_pumpkin'"
+  },
+  {
+    "name": "lower_o",
+    "group": "lower_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_lower_o_carved_pumpkin' : 'lpsm_more_pumpkins:lower_o_carved_pumpkin'"
+  },
+  {
+    "name": "lower_p",
+    "group": "lower_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_lower_p_carved_pumpkin' : 'lpsm_more_pumpkins:lower_p_carved_pumpkin'"
+  },
+  {
+    "name": "lower_q",
+    "group": "lower_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_lower_q_carved_pumpkin' : 'lpsm_more_pumpkins:lower_q_carved_pumpkin'"
+  },
+  {
+    "name": "lower_r",
+    "group": "lower_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_lower_r_carved_pumpkin' : 'lpsm_more_pumpkins:lower_r_carved_pumpkin'"
+  },
+  {
+    "name": "lower_s",
+    "group": "lower_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_lower_s_carved_pumpkin' : 'lpsm_more_pumpkins:lower_s_carved_pumpkin'"
+  },
+  {
+    "name": "lower_t",
+    "group": "lower_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_lower_t_carved_pumpkin' : 'lpsm_more_pumpkins:lower_t_carved_pumpkin'"
+  },
+  {
+    "name": "lower_u",
+    "group": "lower_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_lower_u_carved_pumpkin' : 'lpsm_more_pumpkins:lower_u_carved_pumpkin'"
+  },
+  {
+    "name": "lower_v",
+    "group": "lower_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_lower_v_carved_pumpkin' : 'lpsm_more_pumpkins:lower_v_carved_pumpkin'"
+  },
+  {
+    "name": "lower_w",
+    "group": "lower_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_lower_w_carved_pumpkin' : 'lpsm_more_pumpkins:lower_w_carved_pumpkin'"
+  },
+  {
+    "name": "lower_x",
+    "group": "lower_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_lower_x_carved_pumpkin' : 'lpsm_more_pumpkins:lower_x_carved_pumpkin'"
+  },
+  {
+    "name": "lower_y",
+    "group": "lower_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_lower_y_carved_pumpkin' : 'lpsm_more_pumpkins:lower_y_carved_pumpkin'"
+  },
+  {
+    "name": "lower_z",
+    "group": "lower_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_lower_z_carved_pumpkin' : 'lpsm_more_pumpkins:lower_z_carved_pumpkin'"
+  },
+  {
+    "name": "upper_a",
+    "group": "upper_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_upper_a_carved_pumpkin' : 'lpsm_more_pumpkins:upper_a_carved_pumpkin'"
+  },
+  {
+    "name": "upper_b",
+    "group": "upper_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_upper_b_carved_pumpkin' : 'lpsm_more_pumpkins:upper_b_carved_pumpkin'"
+  },
+  {
+    "name": "upper_c",
+    "group": "upper_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_upper_c_carved_pumpkin' : 'lpsm_more_pumpkins:upper_c_carved_pumpkin'"
+  },
+  {
+    "name": "upper_d",
+    "group": "upper_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_upper_d_carved_pumpkin' : 'lpsm_more_pumpkins:upper_d_carved_pumpkin'"
+  },
+  {
+    "name": "upper_e",
+    "group": "upper_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_upper_e_carved_pumpkin' : 'lpsm_more_pumpkins:upper_e_carved_pumpkin'"
+  },
+  {
+    "name": "upper_f",
+    "group": "upper_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_upper_f_carved_pumpkin' : 'lpsm_more_pumpkins:upper_f_carved_pumpkin'"
+  },
+  {
+    "name": "upper_g",
+    "group": "upper_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_upper_g_carved_pumpkin' : 'lpsm_more_pumpkins:upper_g_carved_pumpkin'"
+  },
+  {
+    "name": "upper_h",
+    "group": "upper_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_upper_h_carved_pumpkin' : 'lpsm_more_pumpkins:upper_h_carved_pumpkin'"
+  },
+  {
+    "name": "upper_i",
+    "group": "upper_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_upper_i_carved_pumpkin' : 'lpsm_more_pumpkins:upper_i_carved_pumpkin'"
+  },
+  {
+    "name": "upper_j",
+    "group": "upper_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_upper_j_carved_pumpkin' : 'lpsm_more_pumpkins:upper_j_carved_pumpkin'"
+  },
+  {
+    "name": "upper_k",
+    "group": "upper_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_upper_k_carved_pumpkin' : 'lpsm_more_pumpkins:upper_k_carved_pumpkin'"
+  },
+  {
+    "name": "upper_l",
+    "group": "upper_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_upper_l_carved_pumpkin' : 'lpsm_more_pumpkins:upper_l_carved_pumpkin'"
+  },
+  {
+    "name": "upper_m",
+    "group": "upper_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_upper_m_carved_pumpkin' : 'lpsm_more_pumpkins:upper_m_carved_pumpkin'"
+  },
+  {
+    "name": "upper_n",
+    "group": "upper_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_upper_n_carved_pumpkin' : 'lpsm_more_pumpkins:upper_n_carved_pumpkin'"
+  },
+  {
+    "name": "upper_o",
+    "group": "upper_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_upper_o_carved_pumpkin' : 'lpsm_more_pumpkins:upper_o_carved_pumpkin'"
+  },
+  {
+    "name": "upper_p",
+    "group": "upper_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_upper_p_carved_pumpkin' : 'lpsm_more_pumpkins:upper_p_carved_pumpkin'"
+  },
+  {
+    "name": "upper_q",
+    "group": "upper_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_upper_q_carved_pumpkin' : 'lpsm_more_pumpkins:upper_q_carved_pumpkin'"
+  },
+  {
+    "name": "upper_r",
+    "group": "upper_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_upper_r_carved_pumpkin' : 'lpsm_more_pumpkins:upper_r_carved_pumpkin'"
+  },
+  {
+    "name": "upper_s",
+    "group": "upper_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_upper_s_carved_pumpkin' : 'lpsm_more_pumpkins:upper_s_carved_pumpkin'"
+  },
+  {
+    "name": "upper_t",
+    "group": "upper_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_upper_t_carved_pumpkin' : 'lpsm_more_pumpkins:upper_t_carved_pumpkin'"
+  },
+  {
+    "name": "upper_u",
+    "group": "upper_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_upper_u_carved_pumpkin' : 'lpsm_more_pumpkins:upper_u_carved_pumpkin'"
+  },
+  {
+    "name": "upper_v",
+    "group": "upper_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_upper_v_carved_pumpkin' : 'lpsm_more_pumpkins:upper_v_carved_pumpkin'"
+  },
+  {
+    "name": "upper_w",
+    "group": "upper_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_upper_w_carved_pumpkin' : 'lpsm_more_pumpkins:upper_w_carved_pumpkin'"
+  },
+  {
+    "name": "upper_x",
+    "group": "upper_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_upper_x_carved_pumpkin' : 'lpsm_more_pumpkins:upper_x_carved_pumpkin'"
+  },
+  {
+    "name": "upper_y",
+    "group": "upper_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_upper_y_carved_pumpkin' : 'lpsm_more_pumpkins:upper_y_carved_pumpkin'"
+  },
+  {
+    "name": "upper_z",
+    "group": "upper_letters",
+    "convert": "c.is_pale ? 'lpsm_more_pumpkins:pale_upper_z_carved_pumpkin' : 'lpsm_more_pumpkins:upper_z_carved_pumpkin'"
+  }
+]

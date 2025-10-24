@@ -1,0 +1,15 @@
+{
+  "format_version": "1.21.60",
+  "minecraft:single_block_feature": {
+    "description": {
+      "identifier": "lpsm_more_pumpkins:lpsm_more_pumpkins/pale_pumpkin_feature"
+    },
+    "places_block": "lpsm_more_pumpkins:pale_pumpkin",
+    "enforce_survivability_rules": true,
+    "enforce_placement_rules": false,
+    "may_replace": ["minecraft:air", "minecraft:pale_moss_carpet", "minecraft:short_grass", "minecraft:tall_grass"],
+    "may_attach_to": {
+      "bottom": ["minecraft:grass_block", "minecraft:dirt", "minecraft:pale_moss_block"]
+    }
+  }
+}

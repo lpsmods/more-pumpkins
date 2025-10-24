@@ -1,0 +1,99 @@
+{
+  "format_version": "1.21.110",
+  "minecraft:block": {
+    "description": {
+      "identifier": "lpsm_more_pumpkins:pale_lower_f_copper_jack_o_lantern",
+      "traits": {
+        "minecraft:placement_direction": {
+          "enabled_states": [
+            "minecraft:cardinal_direction"
+          ],
+          "y_rotation_offset": 180
+        }
+      },
+      "menu_category": {
+        "category": "nature",
+        "group": "lpsm_more_pumpkins:itemGroup.name.pale_copper_jack_o_lantern"
+      }
+    },
+    "components": {
+      "tag:minecraft:is_axe_item_destructible": {},
+      "minecraft:loot": "loot_tables/lpsm/more_pumpkins/blocks/gen/pale_lower_f_copper_jack_o_lantern.json",
+      "minecraft:destructible_by_mining": {
+        "seconds_to_destroy": 1
+      },
+      "minecraft:destructible_by_explosion": {
+        "explosion_resistance": 1
+      },
+      "minecraft:geometry": "minecraft:geometry.full_block",
+      "minecraft:map_color": "#999999",
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "lpsm_more_pumpkins:pale_pumpkin_side"
+        },
+        "south": {
+          "texture": "lpsm_more_pumpkins:pale_lower_f_copper_jack_o_lantern",
+          "face_dimming": false
+        },
+        "up": {
+          "texture": "lpsm_more_pumpkins:pale_pumpkin_top"
+        },
+        "down": {
+          "texture": "lpsm_more_pumpkins:pale_pumpkin_top"
+        }
+      },
+      "minecraft:light_emission": 14,
+      "tag:lpsm_more_pumpkins:pale_copper_jack_o_lantern": {}
+    },
+    "permutations": [
+      {
+        "condition": "q.block_state('minecraft:cardinal_direction')=='north'",
+        "components": {
+          "minecraft:transformation": {
+            "rotation": [
+              0,
+              180,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('minecraft:cardinal_direction')=='south'",
+        "components": {
+          "minecraft:transformation": {
+            "rotation": [
+              0,
+              0,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('minecraft:cardinal_direction')=='east'",
+        "components": {
+          "minecraft:transformation": {
+            "rotation": [
+              0,
+              90,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "condition": "q.block_state('minecraft:cardinal_direction')=='west'",
+        "components": {
+          "minecraft:transformation": {
+            "rotation": [
+              0,
+              -90,
+              0
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

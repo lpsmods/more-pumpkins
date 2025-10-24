@@ -1,0 +1,26 @@
+{
+  "format_version": "1.21.110",
+  "minecraft:item": {
+    "description": {
+      "identifier": "lpsm_more_pumpkins:wooden_carving_knife",
+      "menu_category": {
+        "category": "equipment",
+        "group": "lpsm_more_pumpkins:itemGroup.name.carving_knife"
+      }
+    },
+    "components": {
+      "minecraft:icon": "lpsm_more_pumpkins:wooden_carving_knife",
+      "minecraft:max_stack_size": 1,
+      "minecraft:can_destroy_in_creative": false,
+      "minecraft:tags": {
+        "tags": ["lpsm_more_pumpkins:carving_knives", "is_knife"]
+      },
+      "minecraft:durability": {
+        "max_durability": 36
+      },
+      "minecraft:interact_button": "button.lpsm_more_pumpkins:change_pattern",
+      "minecraft:hand_equipped": true,
+      "lpsm_more_pumpkins:carving_knife": {}
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "format_version": "1.21.110",
+  "minecraft:block": {
+    "description": {
+      "identifier": "lpsm_more_pumpkins:pale_pumpkin",
+      "traits": {
+        "minecraft:placement_direction": {
+          "enabled_states": ["minecraft:cardinal_direction"],
+          "y_rotation_offset": 180
+        }
+      },
+      "menu_category": {
+        "category": "nature"
+      }
+    },
+    "components": {
+      "tag:minecraft:is_axe_item_destructible": {},
+      "minecraft:loot": "loot_tables/lpsm/more_pumpkins/blocks/pale_pumpkin.json",
+      "minecraft:destructible_by_mining": {
+        "seconds_to_destroy": 1
+      },
+      "minecraft:destructible_by_explosion": {
+        "explosion_resistance": 1
+      },
+      "minecraft:geometry": "minecraft:geometry.full_block",
+      "minecraft:map_color": "#D87F33",
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "lpsm_more_pumpkins:pale_pumpkin_side"
+        },
+        "up": {
+          "texture": "lpsm_more_pumpkins:pale_pumpkin_top"
+        },
+        "down": {
+          "texture": "lpsm_more_pumpkins:pale_pumpkin_top"
+        }
+      }
+    }
+  }
+}

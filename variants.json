@@ -1,0 +1,62 @@
+[
+  {
+    "name": "carved_pumpkin",
+    "filename": "NAME_carved_pumpkin.png",
+    "base": "base/pumpkin_side.png",
+    "colors": ["#2d0003", "#441300", "#441300"]
+  },
+  {
+    "name": "jack_o_lantern",
+    "filename": "NAME_jack_o_lantern.png",
+    "base": "base/pumpkin_side.png",
+    "colors": ["#ffc264", "#ffe156", "#feffa1"]
+  },
+  {
+    "name": "soul_jack_o_lantern",
+    "filename": "NAME_soul_jack_o_lantern.png",
+    "base": "base/pumpkin_side.png",
+    "colors": ["#00bcc2", "#5ce8ed", "#b7ebed"]
+  },
+  {
+    "name": "redstone_jack_o_lantern",
+    "filename": "NAME_redstone_jack_o_lantern.png",
+    "base": "base/pumpkin_side.png",
+    "colors": ["#AD0303", "#fd0000", "#F26363"]
+  },
+  {
+    "name": "pale_carved_pumpkin",
+    "filename": "pale_NAME_carved_pumpkin.png",
+    "base": "base/pale_pumpkin_side.png",
+    "colors": ["#202020", "#3c3c3c", "#3c3c3c"]
+  },
+  {
+    "name": "pale_jack_o_lantern",
+    "filename": "pale_NAME_jack_o_lantern.png",
+    "base": "base/pale_pumpkin_side.png",
+    "colors": ["#ffc264", "#ffe156", "#feffa1"]
+  },
+  {
+    "name": "pale_soul_jack_o_lantern",
+    "filename": "pale_NAME_soul_jack_o_lantern.png",
+    "base": "base/pale_pumpkin_side.png",
+    "colors": ["#00bcc2", "#5ce8ed", "#b7ebed"]
+  },
+  {
+    "name": "pale_redstone_jack_o_lantern",
+    "filename": "pale_NAME_redstone_jack_o_lantern.png",
+    "base": "base/pale_pumpkin_side.png",
+    "colors": ["#AD0303", "#fd0000", "#F26363"]
+  },
+  {
+    "name": "copper_jack_o_lantern",
+    "filename": "NAME_copper_jack_o_lantern.png",
+    "base": "base/pumpkin_side.png",
+    "colors": ["#46824d", "#69b26e", "#99eb99"]
+  },
+  {
+    "name": "pale_copper_jack_o_lantern",
+    "filename": "pale_NAME_copper_jack_o_lantern.png",
+    "base": "base/pale_pumpkin_side.png",
+    "colors": ["#46824d", "#69b26e", "#99eb99"]
+  }
+]

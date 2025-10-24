@@ -1,0 +1,48 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "pack.name",
+    "description": "pack.description",
+    "uuid": "4e1db273-4d60-4728-a674-7e5b3648f180",
+    "version": [2, 0, 0],
+    "min_engine_version": [1, 21, 111],
+    "pack_scope": "world"
+  },
+  "modules": [
+    {
+      "description": "pack.description",
+      "type": "data",
+      "uuid": "c2ecdc36-955c-4e22-9b69-3aea371005a6",
+      "version": [2, 0, 0]
+    },
+    {
+      "type": "script",
+      "entry": "scripts/main.js",
+      "uuid": "d0f21a0c-b089-4ff3-a302-19e55f0dd48b",
+      "version": [2, 0, 0]
+    }
+  ],
+  "metadata": {
+    "authors": ["Legopitstop"],
+    "product_type": "addon"
+  },
+  "dependencies": [
+    {
+      "uuid": "fc1059e6-366e-4fde-9b49-8be5b1434b3d",
+      "version": [2, 0, 0]
+    },
+    {
+      // Assets Plus RP
+      "uuid": "c86dd7d9-e84e-456f-a84f-1993e353da4c",
+      "version": [2, 0, 0]
+    },
+    {
+      "module_name": "@minecraft/server",
+      "version": "2.2.0"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "2.0.0"
+    }
+  ]
+}

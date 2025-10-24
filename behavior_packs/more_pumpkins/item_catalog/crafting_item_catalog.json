@@ -1,0 +1,95 @@
+{
+  "format_version": "1.21.60",
+  "minecraft:crafting_items_catalog": {
+    "categories": [
+      {
+        "category_name": "equipment",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "lpsm_more_pumpkins:wooden_carving_knife",
+              "name": "lpsm_more_pumpkins:itemGroup.name.carving_knife"
+            },
+            "items": []
+          }
+        ]
+      },
+      {
+        "category_name": "nature",
+        "groups": [
+          {
+            "group_identifier": {
+              "icon": "lpsm_more_pumpkins:creeper_carved_pumpkin",
+              "name": "lpsm_more_pumpkins:itemGroup.name.carved_pumpkin"
+            },
+            "items": []
+          },
+          {
+            "group_identifier": {
+              "icon": "lpsm_more_pumpkins:creeper_jack_o_lantern",
+              "name": "lpsm_more_pumpkins:itemGroup.name.jack_o_lantern"
+            },
+            "items": []
+          },
+          {
+            "group_identifier": {
+              "icon": "lpsm_more_pumpkins:creeper_soul_jack_o_lantern",
+              "name": "lpsm_more_pumpkins:itemGroup.name.soul_jack_o_lantern"
+            },
+            "items": []
+          },
+          {
+            "group_identifier": {
+              "icon": "lpsm_more_pumpkins:creeper_redstone_jack_o_lantern",
+              "name": "lpsm_more_pumpkins:itemGroup.name.redstone_jack_o_lantern"
+            },
+            "items": []
+          },
+          {
+            "group_identifier": {
+              "icon": "lpsm_more_pumpkins:creeper_copper_jack_o_lantern",
+              "name": "lpsm_more_pumpkins:itemGroup.name.copper_jack_o_lantern"
+            },
+            "items": []
+          },
+
+          {
+            "group_identifier": {
+              "icon": "lpsm_more_pumpkins:pale_carved_pumpkin",
+              "name": "lpsm_more_pumpkins:itemGroup.name.pale_carved_pumpkin"
+            },
+            "items": []
+          },
+          {
+            "group_identifier": {
+              "icon": "lpsm_more_pumpkins:pale_jack_o_lantern",
+              "name": "lpsm_more_pumpkins:itemGroup.name.pale_jack_o_lantern"
+            },
+            "items": []
+          },
+          {
+            "group_identifier": {
+              "icon": "lpsm_more_pumpkins:pale_soul_jack_o_lantern",
+              "name": "lpsm_more_pumpkins:itemGroup.name.pale_soul_jack_o_lantern"
+            },
+            "items": []
+          },
+          {
+            "group_identifier": {
+              "icon": "lpsm_more_pumpkins:pale_redstone_jack_o_lantern",
+              "name": "lpsm_more_pumpkins:itemGroup.name.pale_redstone_jack_o_lantern"
+            },
+            "items": []
+          },
+          {
+            "group_identifier": {
+              "icon": "lpsm_more_pumpkins:pale_copper_jack_o_lantern",
+              "name": "lpsm_more_pumpkins:itemGroup.name.pale_copper_jack_o_lantern"
+            },
+            "items": []
+          }
+        ]
+      }
+    ]
+  }
+}

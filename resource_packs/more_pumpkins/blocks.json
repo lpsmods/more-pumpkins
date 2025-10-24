@@ -1,0 +1,2853 @@
+{
+  "format_version": "1.21.40",
+  "lpsm_more_pumpkins:pale_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:angler_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:archer_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:arms_up_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:blade_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:brewer_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:burn_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:crafter_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:creeper_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:danger_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:dispenser_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:dropper_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:eight_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:explorer_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:five_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:flower_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:flow_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:four_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:friend_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:ghast_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:globe_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:guster_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:heartbreak_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:heart_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:howl_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_a_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_b_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_c_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_d_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_e_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_f_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_g_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_h_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_i_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_j_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_k_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_l_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_m_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_n_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_o_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_p_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_q_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_r_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_s_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_t_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_u_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_v_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_w_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_x_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_y_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_z_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:miner_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:mourner_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:nine_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:observer_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:one_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:plenty_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:prize_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:scrape_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:seven_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:sheaf_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:shelter_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:six_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:skull_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:snort_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:snout_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:three_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:two_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_a_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_b_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_c_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_d_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_e_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_f_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_g_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_h_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_i_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_j_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_k_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_l_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_m_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_n_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_o_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_p_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_q_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_r_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_s_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_t_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_u_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_v_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_w_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_x_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_y_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_z_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:zero_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:angler_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:archer_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:arms_up_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:blade_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:brewer_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:burn_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:crafter_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:creeper_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:danger_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:dispenser_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:dropper_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:eight_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:explorer_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:five_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:flower_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:flow_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:four_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:friend_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:ghast_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:globe_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:guster_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:heartbreak_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:heart_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:howl_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_a_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_b_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_c_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_d_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_e_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_f_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_g_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_h_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_i_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_j_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_k_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_l_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_m_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_n_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_o_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_p_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_q_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_r_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_s_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_t_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_u_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_v_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_w_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_x_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_y_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_z_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:miner_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:mourner_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:nine_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:observer_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:one_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:plenty_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:prize_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:scrape_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:seven_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:sheaf_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:shelter_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:six_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:skull_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:snort_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:snout_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:three_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:two_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_a_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_b_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_c_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_d_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_e_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_f_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_g_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_h_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_i_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_j_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_k_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_l_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_m_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_n_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_o_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_p_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_q_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_r_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_s_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_t_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_u_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_v_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_w_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_x_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_y_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_z_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:zero_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:angler_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:archer_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:arms_up_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:blade_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:brewer_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:burn_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:crafter_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:creeper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:danger_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:dispenser_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:dropper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:eight_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:explorer_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:five_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:flower_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:flow_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:four_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:friend_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:ghast_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:globe_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:guster_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:heartbreak_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:heart_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:howl_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_a_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_b_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_c_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_d_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_e_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_f_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_g_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_h_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_i_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_j_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_k_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_l_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_m_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_n_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_o_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_p_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_q_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_r_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_s_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_t_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_u_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_v_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_w_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_x_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_y_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_z_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:miner_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:mourner_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:nine_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:observer_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:one_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:plenty_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:prize_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:scrape_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:seven_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:sheaf_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:shelter_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:six_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:skull_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:snort_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:snout_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:three_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:two_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_a_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_b_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_c_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_d_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_e_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_f_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_g_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_h_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_i_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_j_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_k_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_l_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_m_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_n_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_o_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_p_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_q_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_r_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_s_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_t_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_u_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_v_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_w_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_x_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_y_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_z_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:zero_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_angler_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_archer_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_arms_up_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_blade_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_brewer_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_burn_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_crafter_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_creeper_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_danger_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_dispenser_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_dropper_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_eight_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_explorer_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_five_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_flower_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_flow_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_four_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_friend_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_ghast_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_globe_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_guster_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_heartbreak_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_heart_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_howl_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_a_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_b_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_c_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_d_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_e_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_f_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_g_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_h_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_i_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_j_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_k_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_l_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_m_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_n_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_o_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_p_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_q_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_r_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_s_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_t_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_u_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_v_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_w_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_x_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_y_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_z_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_miner_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_mourner_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_nine_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_observer_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_one_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_plenty_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_prize_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_scrape_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_seven_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_sheaf_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_shelter_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_six_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_skull_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_snort_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_snout_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_three_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_two_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_a_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_b_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_c_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_d_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_e_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_f_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_g_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_h_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_i_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_j_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_k_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_l_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_m_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_n_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_o_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_p_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_q_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_r_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_s_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_t_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_u_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_v_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_w_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_x_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_y_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_z_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_zero_carved_pumpkin": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_angler_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_archer_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_arms_up_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_blade_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_brewer_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_burn_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_crafter_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_creeper_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_danger_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_dispenser_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_dropper_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_eight_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_explorer_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_five_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_flower_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_flow_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_four_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_friend_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_ghast_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_globe_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_guster_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_heartbreak_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_heart_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_howl_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_a_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_b_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_c_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_d_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_e_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_f_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_g_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_h_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_i_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_j_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_k_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_l_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_m_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_n_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_o_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_p_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_q_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_r_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_s_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_t_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_u_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_v_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_w_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_x_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_y_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_z_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_miner_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_mourner_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_nine_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_observer_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_one_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_plenty_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_prize_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_scrape_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_seven_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_sheaf_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_shelter_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_six_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_skull_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_snort_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_snout_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_three_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_two_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_a_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_b_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_c_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_d_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_e_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_f_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_g_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_h_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_i_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_j_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_k_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_l_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_m_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_n_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_o_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_p_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_q_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_r_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_s_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_t_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_u_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_v_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_w_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_x_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_y_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_z_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_zero_copper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_angler_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_archer_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_arms_up_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_blade_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_brewer_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_burn_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_crafter_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_creeper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_danger_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_dispenser_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_dropper_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_eight_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_explorer_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_five_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_flower_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_flow_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_four_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_friend_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_ghast_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_globe_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_guster_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_heartbreak_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_heart_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_howl_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_a_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_b_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_c_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_d_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_e_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_f_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_g_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_h_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_i_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_j_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_k_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_l_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_m_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_n_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_o_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_p_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_q_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_r_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_s_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_t_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_u_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_v_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_w_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_x_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_y_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_z_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_miner_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_mourner_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_nine_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_observer_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_one_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_plenty_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_prize_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_scrape_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_seven_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_sheaf_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_shelter_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_six_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_skull_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_snort_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_snout_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_three_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_two_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_a_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_b_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_c_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_d_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_e_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_f_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_g_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_h_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_i_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_j_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_k_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_l_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_m_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_n_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_o_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_p_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_q_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_r_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_s_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_t_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_u_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_v_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_w_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_x_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_y_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_z_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_zero_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_angler_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_archer_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_arms_up_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_blade_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_brewer_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_burn_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_crafter_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_creeper_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_danger_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_dispenser_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_dropper_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_eight_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_explorer_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_five_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_flower_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_flow_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_four_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_friend_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_ghast_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_globe_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_guster_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_heartbreak_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_heart_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_howl_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_a_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_b_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_c_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_d_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_e_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_f_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_g_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_h_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_i_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_j_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_k_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_l_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_m_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_n_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_o_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_p_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_q_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_r_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_s_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_t_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_u_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_v_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_w_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_x_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_y_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_z_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_miner_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_mourner_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_nine_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_observer_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_one_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_plenty_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_prize_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_scrape_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_seven_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_sheaf_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_shelter_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_six_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_skull_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_snort_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_snout_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_three_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_two_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_a_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_b_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_c_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_d_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_e_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_f_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_g_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_h_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_i_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_j_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_k_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_l_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_m_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_n_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_o_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_p_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_q_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_r_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_s_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_t_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_u_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_v_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_w_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_x_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_y_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_z_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_zero_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_angler_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_archer_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_arms_up_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_blade_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_brewer_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_burn_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_crafter_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_creeper_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_danger_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_dispenser_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_dropper_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_eight_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_explorer_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_five_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_flower_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_flow_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_four_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_friend_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_ghast_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_globe_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_guster_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_heartbreak_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_heart_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_howl_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_a_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_b_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_c_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_d_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_e_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_f_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_g_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_h_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_i_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_j_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_k_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_l_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_m_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_n_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_o_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_p_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_q_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_r_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_s_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_t_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_u_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_v_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_w_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_x_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_y_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_lower_z_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_miner_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_mourner_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_nine_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_observer_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_one_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_plenty_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_prize_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_scrape_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_seven_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_sheaf_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_shelter_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_six_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_skull_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_snort_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_snout_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_three_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_two_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_a_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_b_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_c_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_d_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_e_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_f_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_g_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_h_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_i_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_j_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_k_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_l_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_m_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_n_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_o_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_p_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_q_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_r_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_s_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_t_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_u_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_v_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_w_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_x_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_y_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_upper_z_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:pale_zero_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:angler_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:archer_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:arms_up_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:blade_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:brewer_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:burn_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:crafter_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:creeper_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:danger_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:dispenser_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:dropper_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:eight_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:explorer_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:five_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:flower_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:flow_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:four_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:friend_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:ghast_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:globe_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:guster_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:heartbreak_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:heart_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:howl_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_a_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_b_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_c_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_d_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_e_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_f_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_g_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_h_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_i_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_j_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_k_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_l_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_m_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_n_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_o_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_p_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_q_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_r_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_s_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_t_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_u_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_v_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_w_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_x_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_y_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_z_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:miner_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:mourner_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:nine_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:observer_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:one_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:plenty_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:prize_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:scrape_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:seven_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:sheaf_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:shelter_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:six_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:skull_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:snort_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:snout_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:three_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:two_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_a_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_b_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_c_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_d_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_e_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_f_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_g_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_h_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_i_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_j_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_k_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_l_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_m_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_n_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_o_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_p_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_q_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_r_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_s_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_t_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_u_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_v_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_w_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_x_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_y_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_z_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:zero_redstone_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:angler_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:archer_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:arms_up_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:blade_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:brewer_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:burn_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:crafter_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:creeper_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:danger_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:dispenser_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:dropper_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:eight_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:explorer_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:five_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:flower_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:flow_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:four_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:friend_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:ghast_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:globe_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:guster_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:heartbreak_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:heart_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:howl_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_a_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_b_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_c_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_d_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_e_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_f_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_g_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_h_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_i_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_j_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_k_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_l_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_m_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_n_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_o_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_p_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_q_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_r_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_s_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_t_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_u_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_v_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_w_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_x_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_y_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:lower_z_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:miner_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:mourner_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:nine_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:observer_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:one_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:plenty_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:prize_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:scrape_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:seven_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:sheaf_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:shelter_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:six_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:skull_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:snort_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:snout_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:three_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:two_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_a_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_b_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_c_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_d_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_e_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_f_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_g_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_h_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_i_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_j_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_k_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_l_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_m_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_n_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_o_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_p_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_q_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_r_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_s_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_t_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_u_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_v_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_w_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_x_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_y_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:upper_z_soul_jack_o_lantern": {
+    "sound": "wood"
+  },
+  "lpsm_more_pumpkins:zero_soul_jack_o_lantern": {
+    "sound": "wood"
+  }
+}

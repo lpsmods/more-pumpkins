@@ -1,0 +1,23 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:scatter_feature": {
+    "description": {
+      "identifier": "lpsm_more_pumpkins:lpsm_more_pumpkins/scatter_pale_pumpkin_feature"
+    },
+    "iterations": 90,
+    "x": {
+      "distribution": "triangle",
+      "extent": [-7, 7]
+    },
+    "y": {
+      "distribution": "triangle",
+      "extent": [-4, 4]
+    },
+    "z": {
+      "distribution": "triangle",
+      "extent": [-7, 7]
+    },
+    "coordinate_eval_order": "zyx",
+    "places_feature": "lpsm_more_pumpkins:lpsm_more_pumpkins/pale_pumpkin_feature"
+  }
+}

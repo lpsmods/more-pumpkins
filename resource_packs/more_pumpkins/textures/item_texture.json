@@ -1,0 +1,33 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "lpsm_more_pumpkins:guide_book": {
+      "textures": "textures/lpsm/more_pumpkins/items/guide_book.png"
+    },
+    "lpsm_more_pumpkins:copper_carving_knife": {
+      "textures": "textures/lpsm/more_pumpkins/items/copper_carving_knife.png"
+    },
+    "lpsm_more_pumpkins:diamond_carving_knife": {
+      "textures": "textures/lpsm/more_pumpkins/items/diamond_carving_knife.png"
+    },
+    "lpsm_more_pumpkins:golden_carving_knife": {
+      "textures": "textures/lpsm/more_pumpkins/items/golden_carving_knife.png"
+    },
+    "lpsm_more_pumpkins:iron_carving_knife": {
+      "textures": "textures/lpsm/more_pumpkins/items/iron_carving_knife.png"
+    },
+    "lpsm_more_pumpkins:netherite_carving_knife": {
+      "textures": "textures/lpsm/more_pumpkins/items/netherite_carving_knife.png"
+    },
+    "lpsm_more_pumpkins:stone_carving_knife": {
+      "textures": "textures/lpsm/more_pumpkins/items/stone_carving_knife.png"
+    },
+    "lpsm_more_pumpkins:wooden_carving_knife": {
+      "textures": "textures/lpsm/more_pumpkins/items/wooden_carving_knife.png"
+    },
+    "lpsm_more_pumpkins:pale_pumpkin_pie": {
+      "textures": "textures/lpsm/more_pumpkins/items/pale_pumpkin_pie.png"
+    }
+  }
+}

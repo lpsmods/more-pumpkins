@@ -1,0 +1,12 @@
+{
+  "format_version": "1.21.110",
+  "minecraft:recipe_shapeless": {
+    "description": { "identifier": "lpsm_more_pumpkins:guide_book" },
+    "ingredients": [{ "item": "minecraft:book" }, { "item": "minecraft:pumpkin" }],
+    "result": {
+      "item": "lpsm_more_pumpkins:guide_book"
+    },
+    "tags": ["crafting_table"],
+    "unlock": [{ "item": "minecraft:book" }, { "item": "minecraft:pumpkin" }]
+  }
+}
