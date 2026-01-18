@@ -17,17 +17,12 @@ import {
   AddonUtils,
   BlockUtils,
   MolangUtils,
-  WorldUtils,
+  DirectionUtils,
+  Identifier,
 } from "@lpsmods/mc-utils";
 
 import { PROJECT_ID } from "../constants";
-import patterns from "../../patterns.json";
-
-interface CarvingPattern {
-  name: string;
-  convert: string;
-  group?: string;
-}
+import { CarvingKnifeRecipe, carvingKnifeRecipes } from "../recipe/carving_knife";
 
 export type patternMap = { [key: string]: string };
 
@@ -41,8 +36,8 @@ export class CarvingKnifeComponent extends ItemBaseComponent implements ItemCust
     CarvingKnifeComponent.instance = this;
   }
 
-  getPattern(patternName: string): CarvingPattern | undefined {
-    return patterns.find((p: CarvingPattern) => p.name === patternName);
+  getRecipe(patternName: string): CarvingKnifeRecipe | undefined {
+    return carvingKnifeRecipes.find((p: CarvingKnifeRecipe) => p.name === patternName);
   }
 
   onCarve(event: EntityHitBlockAfterEvent, itemStack: ItemStack): void {
@@ -50,16 +45,21 @@ export class CarvingKnifeComponent extends ItemBaseComponent implements ItemCust
     const isPale = event.hitBlock.typeId.includes("pale_");
     const patId = (itemStack.getDynamicProperty(AddonUtils.makeId("pattern")) as string) ?? "default";
     if (!BlockUtils.matchAny(event.hitBlock, ["pumpkin", AddonUtils.makeId("pale_pumpkin")])) return;
-    const pattern = this.getPattern(patId);
+    const pattern = this.getRecipe(patId);
     if (!pattern) return;
     const blockId = MolangUtils.block(event.hitBlock, pattern.convert, {
       context: { is_pale: isPale },
     }) as string;
-    let dir = WorldUtils.rot2dir(event.damagingEntity.getRotation());
+    let dir = DirectionUtils.rot2dir(event.damagingEntity.getRotation());
     if (dir === Direction.Down || dir === Direction.Up) dir = Direction.North;
-    const perm = BlockPermutation.resolve(blockId, {
-      "minecraft:cardinal_direction": WorldUtils.getOpposite(dir).toLowerCase(),
-    });
+    let perm;
+    try {
+      perm = BlockPermutation.resolve(blockId, {
+        "minecraft:cardinal_direction": DirectionUtils.getOpposite(dir).toLowerCase(),
+      });
+    } catch {
+      perm = BlockPermutation.resolve(blockId);
+    }
     event.hitBlock.setPermutation(perm);
     const loot = isPale ? "pale_pumpkin" : "pumpkin";
     const { x, y, z } = event.hitBlock.location;
@@ -93,16 +93,16 @@ export class CarvingKnifeComponent extends ItemBaseComponent implements ItemCust
     };
 
     if (form.buttons) {
-      const groups: { [key: string]: CarvingPattern[] } = {};
-      for (const pattern of patterns) {
+      const groups: { [key: string]: CarvingKnifeRecipe[] } = {};
+      for (const pattern of carvingKnifeRecipes) {
         if (pattern.group) {
           if (!(pattern.group in groups)) groups[pattern.group] = [];
           groups[pattern.group].push(pattern);
           continue;
         }
-
+        const icon = `textures/lpsm/more_pumpkins/ui/patterns/${pattern.name.replace(/:/gm, "_")}.png`;
         form.buttons.push({
-          icon: `textures/lpsm/more_pumpkins/ui/patterns/${pattern.name}.png`,
+          icon: icon,
           label: `menu.carving_knife.pattern.${pattern.name}`,
           onClick() {
             changePattern(pattern.name);

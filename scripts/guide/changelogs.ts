@@ -3,7 +3,11 @@ export const changelogs = {
     icon: "textures/ui/creative_icon.png",
     title: "guide.common.changelogs",
     body: "guide.common.changelogs.desc",
-    buttons: ["v200", "v120", "v110", "v100"],
+    buttons: ["v201", "v200", "v120", "v110", "v100"],
+  },
+  v201: {
+    title: "#changelogs.v201",
+    body: "#changelogs.v201.desc",
   },
   v200: {
     title: "#changelogs.v200",

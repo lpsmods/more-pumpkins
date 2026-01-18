@@ -4,13 +4,8 @@
     "description": {
       "identifier": "lpsm_more_pumpkins:pale_lower_i_soul_jack_o_lantern"
     },
-    "tags": [
-      "crafting_table"
-    ],
-    "pattern": [
-      "P",
-      "T"
-    ],
+    "tags": ["crafting_table"],
+    "pattern": ["P", "T"],
     "key": {
       "P": {
         "item": "lpsm_more_pumpkins:pale_lower_i_carved_pumpkin"

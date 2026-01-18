@@ -4,13 +4,8 @@
     "description": {
       "identifier": "lpsm_more_pumpkins:upper_r_copper_jack_o_lantern"
     },
-    "tags": [
-      "crafting_table"
-    ],
-    "pattern": [
-      "P",
-      "T"
-    ],
+    "tags": ["crafting_table"],
+    "pattern": ["P", "T"],
     "key": {
       "P": {
         "item": "lpsm_more_pumpkins:upper_r_carved_pumpkin"

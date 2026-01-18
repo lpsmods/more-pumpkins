@@ -1,5 +1,7 @@
 import { AddonUtils } from "@lpsmods/mc-utils";
 import { PROJECT_ID } from "./constants";
+import './api'
+import './api.test'
 
 AddonUtils.addonId = PROJECT_ID;
 
