@@ -10,7 +10,7 @@ Adds new carved pumpkins to your world!
 
 This repository has multiple branches for each platform this Minecraft mod supports.
 
-- [`1.21`](https://github.com/lpsmods/more-pumpkins/tree/1.21)
+- [`java`](https://github.com/lpsmods/more-pumpkins/tree/1.21)
 - [`bedrock`](https://github.com/lpsmods/more-pumpkins/tree/bedrock)
 
 ## Mod Data
